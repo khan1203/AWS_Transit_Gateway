@@ -1,6 +1,6 @@
- # AWS Python S3 Bucket Pulumi Template
+ # Configuring AWS Transit Gateway using Pulumi
 
- A minimal Pulumi template for provisioning a single AWS S3 bucket using Python.
+ 
 
  ### Architecture
 
