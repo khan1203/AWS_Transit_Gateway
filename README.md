@@ -2,6 +2,11 @@
 
  A minimal Pulumi template for provisioning a single AWS S3 bucket using Python.
 
+ ### Architecture
+
+ <img width="1031" height="542" alt="image" src="https://github.com/user-attachments/assets/9612d924-b972-475e-89df-faeede674b64" />
+
+
  ## Overview
 
  This template provisions an S3 bucket (`pulumi_aws.s3.BucketV2`) in your AWS account and exports its ID as an output. It’s an ideal starting point when:
